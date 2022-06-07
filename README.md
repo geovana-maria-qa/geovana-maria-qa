@@ -1,16 +1,32 @@
-### Hi there 👋
+#### Olá, seja bem-vindo(a) e obrigada por visitar o meu perfil! 👩🏽‍💻
 
-<!--
-**geovana-maria-qa/geovana-maria-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Me chamo Geovana Maria e atuo como QA. 
+> “A persistência é o caminho do êxito. ” – Charles Chaplin
 
-Here are some ideas to get you started:
+🧑‍🎓Cursando o 8º semestre de Sistemas de Informação;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧐 Atuo na área de qualidade há mais de ano;
+
+📚 Atualmente estudando para ingressar na área de automatização de testes 
+Foco: Testes Web com Cypress e Selenium (Python e Java);
+
+#### 🕹 Conhecimentos técnicos:
+ 📌 Metodologia ágil
+- Scrum
+- Kanban 
+
+📌 Linguagens
+- Python 
+-  SQL
+
+📌 Aplicações 
+- Mobile
+- Web
+- Api REST
+
+📌 Ferramentas de rotina
+-  Postman 
+- Insominia 
+- Jira
+- Azure (Microsoft)
+-  Mantis
